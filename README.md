@@ -154,6 +154,21 @@ Clear separation between training, inference, and UI
 
 Easily extensible to advanced regression techniques
 
+📄 Research Publication
+
+The research work related to this project has been published in a peer-reviewed journal.
+
+Title:
+Predictive Modeling of Wine Quality Using Supervised Machine Learning
+
+Journal:
+International Journal of Innovative Research in Technology (IJIRT)
+
+Publication Link:
+https://ijirt.org/article?manuscript=187067
+
+This publication provides the theoretical background, experimental analysis, and performance evaluation of supervised machine learning models for wine quality prediction, while the current project focuses on practical deployment and real-time inference.
+
 🔮 Future Enhancements
 
 Support for multiple wine types (white, rosé)
