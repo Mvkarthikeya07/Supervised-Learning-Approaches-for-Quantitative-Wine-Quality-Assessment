@@ -1,4 +1,4 @@
-🍷 Predictive Modeling of Wine Quality Using Supervised Machine Learning
+🍷 Supervised Learning Approaches for Quantitative Wine Quality Assessment
 
 A Machine Learning–Based Quality Assessment Web Application
 
