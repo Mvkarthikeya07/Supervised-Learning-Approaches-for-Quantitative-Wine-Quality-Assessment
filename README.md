@@ -19,7 +19,7 @@ Deploy the trained model as an interactive web application
 Maintain a clear, modular, and reproducible project structure
 
 Demonstrate applied machine learning in a real-world quality prediction task
-
+```
 🚀 Key Features
 
 ✔ Machine learning–based wine quality prediction
@@ -28,7 +28,7 @@ Demonstrate applied machine learning in a real-world quality prediction task
 ✔ Clear prediction result display
 ✔ Reusable serialized ML model
 ✔ Clean separation of data, model, and UI layers
-
+````
 🧠 Machine Learning Approach
 
 This project follows a supervised learning regression pipeline.
@@ -64,7 +64,7 @@ User-provided input features are passed to the trained model
 Model outputs a predicted wine quality score
 
 This pipeline ensures accuracy, consistency, and reproducibility.
-
+````
 🏗️ Project Structure
 wine_quality_prediction/
 │
@@ -84,7 +84,7 @@ wine_quality_prediction/
 ├── requirements.txt                 # Python dependencies
 ├── LICENSE                          # License information
 └── README.md                        # Project documentation
-
+````
 🔄 Application Workflow
 
 User enters physicochemical properties of the wine
