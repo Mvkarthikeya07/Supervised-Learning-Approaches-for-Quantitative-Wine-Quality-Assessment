@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=8B0000&center=true&vCenter=true&width=800&lines=🍷+Wine+Quality+Prediction+System;Supervised+ML+%7C+Flask+%7C+Scikit-learn;End-to-End+ML+Deployment" alt="Typing SVG" />
+<h1>🍷 Wine Quality Prediction System</h1>
+<h3>Supervised ML · Flask · Scikit-learn · End-to-End ML Deployment</h3>
 
 <br/>
 
@@ -19,7 +20,7 @@
 <br/>
 
 [![Research Paper](https://img.shields.io/badge/📄_Published_Research-IJIRT_Journal-red?style=for-the-badge)](https://ijirt.org/article?manuscript=187067)
-[![Live Demo](https://img.shields.io/badge/🚀_Run_Locally-Flask_App-darkred?style=for-the-badge)](#-installation--usage)
+[![Live Demo](https://img.shields.io/badge/🚀_Run_Locally-Flask_App-darkred?style=for-the-badge)](#️-installation--usage)
 
 </div>
 
@@ -28,7 +29,7 @@
 ## 📑 Table of Contents
 
 - [Overview](#-overview)
-- [Live Screenshots](#-live-screenshots)
+- [Live Screenshots](#️-live-screenshots)
 - [ML Pipeline & Methodology](#-ml-pipeline--methodology)
 - [Model Comparison & Selection](#-model-comparison--selection)
 - [Feature Engineering & Importance](#-feature-engineering--importance)
