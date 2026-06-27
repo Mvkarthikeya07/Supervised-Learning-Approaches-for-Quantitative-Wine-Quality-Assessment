@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🍷 Wine Quality Prediction System</h1>
+<h1>🍷Supervised-Learning-Approaches-for-Quantitative-Wine-Quality Assessment</h1>
 <h3>Supervised ML · Flask · Scikit-learn · End-to-End ML Deployment</h3>
 
 <br/>
